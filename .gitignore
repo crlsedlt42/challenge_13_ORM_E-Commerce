@@ -1,0 +1,6 @@
+node_modules
+.env
+package-lock.json
+
+# 'given' is a repository I use for given content from coding bootcamp i.e. the mini project and the challenge readme
+-given
