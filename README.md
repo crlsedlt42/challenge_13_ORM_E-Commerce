@@ -44,7 +44,9 @@ npm run seed
 ```
 
 
-![screenshot](assets/images/screenshot.png)
+![screenshot](images/Challenge_13-ORM-BackEnd.jpg)
+
+[Video Submission](https://youtu.be/P5yPRSOZKow)
 
 ## License
 
